@@ -27,11 +27,9 @@ This project addresses that gap by introducing:
 
 ---
 
-## Architecture
+## Architecture Design
 
-CloudTrail → EventBridge → Lambda → SNS
-→ S3 (findings)
-→ CloudWatch Logs
+![IAM Architecture](diagram.png)
 
 ---
 
