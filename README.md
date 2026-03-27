@@ -168,3 +168,8 @@ chmod +x build.sh
 - Expand detection logic for additional IAM attack paths
 - Introduce **controlled remediation workflows**
 
+--
+
+## Author
+
+Sebastian Silva C. – Cloud Engineer | Secure Infrastructure & Automation – Berlin, Germany
