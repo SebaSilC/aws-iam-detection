@@ -123,7 +123,7 @@ No destructive actions are taken to keep the system safe and predictable.
   "reason": "Policy version set as default (privilege escalation)"
 }
 ```
---
+---
 
 ## Deployment
 
@@ -141,7 +141,7 @@ chmod +x build.sh
 ./build.sh
 ```
 
---
+---
 
 ## Security Considerations
 
@@ -168,7 +168,7 @@ chmod +x build.sh
 - Expand detection logic for additional IAM attack paths
 - Introduce **controlled remediation workflows**
 
---
+---
 
 ## Author
 
